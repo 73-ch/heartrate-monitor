@@ -1,0 +1,3 @@
+[submodule "miband4"]
+	path = miband4
+	url = git@github.com:satcar77/miband4.git
