@@ -9,7 +9,7 @@ from datetime import datetime
 
 from bluepy.btle import BTLEDisconnectError
 
-from miband import miband4.miband
+from miband4.miband import miband
 
 from pythonosc import osc_message_builder
 from pythonosc import udp_client
