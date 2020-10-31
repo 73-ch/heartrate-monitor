@@ -1,0 +1,3 @@
+[submodule "miband"]
+	path = miband
+	url = git@github.com:73-ch/miband4.git
